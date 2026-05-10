@@ -32,8 +32,8 @@ desercion-escolar-rd/
 
 | Fase | Descripción | Estado |
 |------|-------------|--------|
-| 1. Exploración de datos | Carga y exploración inicial de los datasets | 🔜 Próximamente |
-| 2. Limpieza | Tratamiento de valores nulos, duplicados y formatos | 🔜 Próximamente |
+| 1. Exploración de datos | Carga y exploración inicial de los datasets | ✅ Completado |
+| 2. Limpieza | Tratamiento de valores nulos, duplicados y formatos | ✅ Completado |
 | 3. Extracción de indicadores | Extracción de datos desde PDFs del MINERD | 🔜 Próximamente |
 | 4. Feature Engineering | Creación de variables y merge de datasets | 🔜 Próximamente |
 | 5. Modelo Predictivo | Entrenamiento y evaluación de modelos ML | 🔜 Próximamente |
