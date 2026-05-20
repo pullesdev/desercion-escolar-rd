@@ -36,7 +36,7 @@ desercion-escolar-rd/
 | 2. Limpieza | Tratamiento de valores nulos, duplicados y formatos | ✅ Completado |
 | 3. Extracción de indicadores | Extracción de datos desde PDFs del MINERD | ✅ Completado |
 | 4. Feature Engineering | Creación de variables y merge de datasets | ✅ Completado |
-| 5. Modelo Predictivo | Entrenamiento y evaluación de modelos ML | 🔜 Próximamente |
+| 5. Modelo Predictivo | Entrenamiento y evaluación de modelos ML | ✅ Completado |
 
 ## Tech Stack
 
